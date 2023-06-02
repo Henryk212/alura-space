@@ -1,6 +1,6 @@
 import logo from "./logo.png";
 import search from "./search.png";
-import styles from './cabecalho.module.scss';
+import styles from './Cabecalho.module.scss';
 export default function Cabecalho() {
     return (
         <header className={styles.cabecalho}>
